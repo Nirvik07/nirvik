@@ -45,7 +45,7 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 - The variation of COMMENTS with PUBLISHINF-TIME is plotted.
 - Heatmap of "MR. BEAST YOUTUBE CHANNEL" is shown.
 - The variation of VIDEO DURATIONS with PUBLISHINF-TIME is plotted and it shows that Mr. Beast had made long videos at starting of 2019 but later move to short videos.
-- His videos are mostly based the topic"https://en.wikipedia.org/wiki/Lifestyle_(sociology)".
+- His videos are mostly based the topic https://en.wikipedia.org/wiki/Lifestyle_(sociology).
 ## Authors
 
 - Created by [@Nirvik07](https://github.com/Nirvik07), HRSoc 2022
