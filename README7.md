@@ -22,6 +22,19 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 3. matplotlib.
 4. seaborn.
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/180046166-5d903814-7e75-4cf5-956a-5c1497dfdc85.png)
+![download](https://user-images.githubusercontent.com/97960335/180046177-3ffcbccf-83b6-4d7a-8daf-e83cb6299256.png)
+![download](https://user-images.githubusercontent.com/97960335/180046190-0529b891-9c32-442e-8c17-653539959487.png)
+![download](https://user-images.githubusercontent.com/97960335/180046206-3e50b45e-ee8a-4d3b-9f55-fdd0d0978b8c.png)
+![download](https://user-images.githubusercontent.com/97960335/180046213-0d38be16-73db-47c0-987f-ad4ac2c3d80a.png)
+
+![download](https://user-images.githubusercontent.com/97960335/180046222-2eeafeed-5a98-4158-a948-12bd9446d2b8.png)
+![download](https://user-images.githubusercontent.com/97960335/180046239-82e8d638-4914-4c0c-9fab-57df1e8c2125.png)
+
+
+
+
 ## Conclusion:
 
 - Maximun number of Nobel Laureates got Nobel Prize around the age of 60
