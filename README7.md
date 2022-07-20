@@ -31,7 +31,9 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 
 ![download](https://user-images.githubusercontent.com/97960335/180046222-2eeafeed-5a98-4158-a948-12bd9446d2b8.png)
 ![download](https://user-images.githubusercontent.com/97960335/180046239-82e8d638-4914-4c0c-9fab-57df1e8c2125.png)
+![download](https://user-images.githubusercontent.com/97960335/180046374-dad23158-a30c-4820-9fe6-d88ab741bd78.png)
 
+![download](https://user-images.githubusercontent.com/97960335/180046391-fdc02507-d024-4a61-9060-18585cbf585c.png)
 
 
 
