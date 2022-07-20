@@ -22,6 +22,22 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 3. matplotlib.
 4. seaborn.
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/179957610-5163bcea-211b-4ac9-9174-c99d0fecbfea.png)
+
+![download](https://user-images.githubusercontent.com/97960335/179957639-dce926c6-5738-4dc1-ae56-74e7d2ad8207.png)
+
+![download](https://user-images.githubusercontent.com/97960335/179957655-c18deaed-af5f-4ccd-ba9d-27dd0c160e72.png)
+
+![download](https://user-images.githubusercontent.com/97960335/179957674-d5fef1f7-4f87-4dd4-b571-d199dbdbf07a.png)
+
+![download](https://user-images.githubusercontent.com/97960335/179957687-8306f4db-1cee-4c8e-a9b1-1c11734be067.png)
+
+![download](https://user-images.githubusercontent.com/97960335/179957704-efc3b3d3-5e66-45f6-a85f-f0963d22195e.png)
+
+![download](https://user-images.githubusercontent.com/97960335/179957723-165b4534-638f-483c-8b3b-aa21d3c6952f.png)
+
+
 ## Conclusion:
 
 - The variation of VIEWS with PUBLISHING-TIME is plotted.
