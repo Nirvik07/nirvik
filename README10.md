@@ -1,5 +1,6 @@
 
 # Instagram Influencers Analysis
+![download](https://user-images.githubusercontent.com/97960335/180224743-9185b218-3b74-440a-88bc-83c2445634d0.jpg)
 
 
 ## Goal
@@ -22,6 +23,15 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 3. matplotlib.
 4. seaborn.
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/180224423-06a4d984-6c76-448e-bccd-dfb343d8c6e5.png)
+![download](https://user-images.githubusercontent.com/97960335/180224509-691d6232-993d-41b2-9732-5aa66e12761a.png)
+![download](https://user-images.githubusercontent.com/97960335/180224541-05cd63a9-dcee-4b07-8638-a93bd3e3d9e3.png)
+![download](https://user-images.githubusercontent.com/97960335/180224575-02a545a5-6e5e-4dfe-82e8-3e51824e25a2.png)
+![download](https://user-images.githubusercontent.com/97960335/180224588-acfc8c60-1f93-410e-b8f7-a96bf30fe07d.png)
+![download](https://user-images.githubusercontent.com/97960335/180224599-6b19d526-ac2e-4194-9940-3436157aac2a.png)
+![download](https://user-images.githubusercontent.com/97960335/180224612-7c106e63-e018-4583-a5ad-c14132bc38f4.png)
+
 ## Conclusion:
 
 - instagram has maximum number of followers.
