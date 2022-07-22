@@ -1,6 +1,8 @@
 
 # Reddit Vaccine Myths Analysis
 
+![covid-19-vaccine](https://user-images.githubusercontent.com/97960335/180482253-5a85a52a-f864-443d-a362-9cb3737b5093.jpg)
+
 
 ## Goal
 
@@ -27,6 +29,13 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 6. spacy
 7. textblob
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/180482033-d8e6e7f6-b21b-47ee-8f64-c38b3b52aac9.png)
+![download](https://user-images.githubusercontent.com/97960335/180482047-7909c229-2355-4ecb-9a68-1397733716d8.png)
+![download](https://user-images.githubusercontent.com/97960335/180482075-eb54172e-3ae2-410a-9f91-6cea93f140c4.png)
+![download](https://user-images.githubusercontent.com/97960335/180482088-51de6872-6e31-4ef1-914a-d63fe8867827.png)
+![download](https://user-images.githubusercontent.com/97960335/180482092-41b34925-d087-46e8-8419-b8d651e33908.png)
+
 ## Conclusion:
 
 - 2019 has the maximun number of comments.
