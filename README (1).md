@@ -23,6 +23,16 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 4. seaborn.
 
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/180594441-1caa81c0-f5fb-4743-b517-b3a8bf9fa0f2.png)
+![download](https://user-images.githubusercontent.com/97960335/180594447-32748189-ea14-420c-9495-2d9e288ecaa7.png)
+![download](https://user-images.githubusercontent.com/97960335/180594452-6752827d-919d-4726-8a3d-15a3376a82c3.png)
+![download](https://user-images.githubusercontent.com/97960335/180594455-78c6f101-f8b0-4671-9f6c-0708c38ab373.png)
+![download](https://user-images.githubusercontent.com/97960335/180594460-155206f9-17cb-4b5d-9308-d9bd4cc3349c.png)
+![download](https://user-images.githubusercontent.com/97960335/180594464-63c2e7ad-e2fc-4e5c-b4a5-633862f91080.png)
+![download](https://user-images.githubusercontent.com/97960335/180594468-ab9a32d3-6934-46d1-94da-5e2381191821.png)
+![download](https://user-images.githubusercontent.com/97960335/180594472-1856be4b-af96-4055-b172-efad814df0a9.png)
+
 ## Conclusion:
 
 - Maximun number of Teachers are from Department of Computer Science.
