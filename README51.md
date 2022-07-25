@@ -1,5 +1,6 @@
 
 # Airlines Delay Prediction
+![download](https://user-images.githubusercontent.com/97960335/180749526-7d116b7d-426a-42a9-a8cb-ad475a5a6a27.jpg)
 
 
 ## Goal
@@ -27,6 +28,16 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 7. category_encoders
 8. sklearn
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/180749246-7c101fa3-6cbb-4617-af19-4f6dc9d59071.png)
+
+![download](https://user-images.githubusercontent.com/97960335/180749307-ca93bbd1-8b41-4edd-93d2-11f8b83382f6.png)
+
+![download](https://user-images.githubusercontent.com/97960335/180749322-37ff993f-69b2-42af-b41f-20447416a0e8.png)
+
+![newplot (1)](https://user-images.githubusercontent.com/97960335/180749375-20ee5481-196b-4f2b-b473-62e2b482d6e7.png)
+
+
 ## Conclusion:
 
 - Model is created.
