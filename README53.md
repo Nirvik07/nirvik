@@ -23,6 +23,25 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 4. seaborn
 5. sklearn
 ## Visualization and EDA of different attributes:
+
+![download](https://user-images.githubusercontent.com/97960335/181419385-4935a1d9-5991-418d-8a09-d76c7732b5b4.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419405-7eed55ef-fd27-4d3c-988a-e5db0cb04ff7.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419420-c6f8e702-125f-42e9-8a10-2b685777a33c.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419428-c78c6131-bd4f-4c34-8cb0-c0feca6858f0.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419444-ebd7097e-d0da-4f7a-8fcc-0244d3e872b3.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419466-5bf81410-01eb-4aa9-8ea2-4d812c9e59e3.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419497-1cee3994-48ed-48a6-bb70-0b9b96e7a65e.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419525-ba48010c-06cb-4ce1-a260-bc9bed7dcd60.png)
+
+![download](https://user-images.githubusercontent.com/97960335/181419540-c735f426-f5f3-4de7-a4e4-363915ff6f21.png)
+
 ## Conclusion:
 
 - United States is the country that comes most times in QS Ranking List
