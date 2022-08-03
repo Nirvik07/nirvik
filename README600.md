@@ -50,6 +50,7 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 | 6 | Lasso Regression Algorithm | 0.9996099594664937 |
 | 7 | Ridge Regression Algorithm | 0.9998811057332703 |
 
+- GradientBoosting Regression Algorithm is the best fitted Model as it gave the best predicted score.
 ## Authors
 
 - Created by [@Nirvik07](https://github.com/Nirvik07), HRSoc 2022
