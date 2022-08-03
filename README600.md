@@ -38,9 +38,18 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 - McSpicy Premium Chicken Burger has highest grams of Saturated Fat
 - Chocolate Oreo Frappe has highest grams of Trans fat
 - Ghee Rice with Mc Spicy Fried Chicken 1 pc has highest miligrams of Cholesterols.
-- Three Machine Learning Models are created.
-  - AdaBoot Regression Algorithm
-  - GradientBoosting Regression Algorithm
+- Seven Machine Learning Models are created.
+
+| Sl. No. | Models | Accuracy Scores |
+|---|---|---|
+| 1 | AdaBoot Regression Algorithm | 0.991977556232862 |
+| 2 | GradientBoosting Regression Algorithm | 0.9999999963266836 |
+| 3 | Random Forest Regression Algorithm | 0.959297326371577 |
+| 4 | Bagging Regression Algorithm | 0.9441542909866394 |
+| 5 | SGD Regression Algorithm | 0.9999997421011699 |
+| 6 | Lasso Regression Algorithm | 0.9996099594664937 |
+| 7 | Ridge Regression Algorithm | 0.9998811057332703 |
+
 ## Authors
 
 - Created by [@Nirvik07](https://github.com/Nirvik07), HRSoc 2022
