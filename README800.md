@@ -11,8 +11,7 @@ The BMI CALCULATOR is used to calculate whether a person is overweight or not.
 
 ## Demo
 
-
-
+![205237 (1920×1080)](https://user-images.githubusercontent.com/97960335/187059004-fe404088-5b27-427c-999c-c91fa3f16504.gif)
 
 ## Authors
 
