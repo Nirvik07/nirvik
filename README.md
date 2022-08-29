@@ -9,9 +9,7 @@ A matrix Calculator is a calculator which perform addition and multiplication on
 
 
 ## Demo
-
-
-
+![205463 (1080×1588)](https://user-images.githubusercontent.com/97960335/187265152-ace64d3f-0603-43e2-b283-e4f91cc0b67a.gif)
 
 ## Authors
 
