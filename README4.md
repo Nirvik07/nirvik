@@ -10,8 +10,7 @@ EMI calculator helps to calculate the monthly EMI of any product.
 
 ## Demo
 
-
-
+![206869 (1920×1080)](https://user-images.githubusercontent.com/97960335/187344540-d7e2260b-0ab6-4eaf-95da-6a81f88af3ea.gif)
 
 ## Authors
 
