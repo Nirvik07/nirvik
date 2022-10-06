@@ -12,8 +12,7 @@ Creating a Space Warrior Game using Pygame. In this game, one main Spaceship wil
 
 ## Demo
 
-
-
+![InShot_20221006_205520390](https://user-images.githubusercontent.com/97960335/194355329-4ebb7a49-76cb-40d7-9626-aaf7f973df74.gif)
 
 ## Authors
 
